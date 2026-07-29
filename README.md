@@ -136,8 +136,7 @@ I'm **Rhythm Manandhar**, a **Computer Science undergraduate** and full stack de
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
-              dist/snake.svg?palette=github-dark&color_snake=FFDBBB&color_dots=00000000,3E2B1C,A87244,D9A87C,FFDBBB
-              dist/snake-light.svg?color_snake=A87244&color_dots=FFF6EE,FFDBBB,D9A87C,A87244,6B4423
+              dist/snake.svg?color_snake=A87244&color_dots=E8D5C4,D9A87C,C99A66,A87244,6B4423
         - uses: crazy-max/ghaction-github-pages@v4
           with:
             target_branch: output
@@ -152,11 +151,7 @@ I'm **Rhythm Manandhar**, a **Computer Science undergraduate** and full stack de
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/output/snake.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/output/snake-light.svg"/>
-  <img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/output/snake.svg" width="100%" alt="Snake animation"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/output/snake.svg?v=3" width="100%" alt="Snake animation"/>
 
 </div>
 
