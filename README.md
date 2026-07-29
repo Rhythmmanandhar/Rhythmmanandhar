@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:4C1D95,70:7C3AED,100:FFB703&height=230&section=header&text=Rhythm%20Manandhar&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E293B,70:10B981,100:6EE7B7&height=230&section=header&text=Rhythm%20Manandhar&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:FFB703,50:7C3AED,100:00E5FF&height=90&text=Full%20Stack%20Developer&fontSize=30&fontColor=000000&fontAlignY=45&animation=scaleIn" width="70%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=FFB703&background=00000000&center=true&vCenter=true&width=680&height=55&lines=Building+Software+That+Scales;Backend+Architecture+%2B+Modern+Frontends;Computer+Science+Undergraduate;Based+in+Nepal" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:6EE7B7,50:10B981,100:0F172A&height=90&text=Full%20Stack%20Developer&fontSize=30&fontColor=0F172A&fontAlignY=45&animation=scaleIn" width="70%"/>
 
 <br/>
 
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=FFB703" height="30"/></a>&nbsp;
-<a href="https://linkedin.com/in/rhythmmanandhar"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00E5FF" height="30"/></a>&nbsp;
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=FFB703" height="30"/></a>&nbsp;
-<a href="https://github.com/Rhythmmanandhar"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF" height="30"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=10B981&background=00000000&center=true&vCenter=true&width=800&height=55&lines=Building+Software+That+Scales;Backend+Architecture+%2B+Modern+Frontends;Computer+Science+Undergraduate;Based+in+Nepal" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=6EE7B7" height="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/rhythmmanandhar"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=6EE7B7" height="30"/></a>&nbsp;
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=6EE7B7" height="30"/></a>&nbsp;
+<a href="https://github.com/Rhythmmanandhar"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF" height="30"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rhythmmanandhar&style=flat&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Rhythmmanandhar?style=flat&color=FFB703&labelColor=000000&logo=github&logoColor=FFB703"/>
-<img src="https://img.shields.io/github/stars/Rhythmmanandhar?style=flat&color=00E5FF&labelColor=000000&logo=github&logoColor=00E5FF"/>
+<img src="https://komarev.com/ghpvc/?username=Rhythmmanandhar&style=flat&color=10B981&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Rhythmmanandhar?style=flat&color=10B981&labelColor=0F172A&logo=github&logoColor=6EE7B7"/>
+<img src="https://img.shields.io/github/stars/Rhythmmanandhar?style=flat&color=6EE7B7&labelColor=0F172A&logo=github&logoColor=6EE7B7"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=900&color=FFB703&background=00000000&center=true&vCenter=true&width=500&height=55&lines=About;Who+I+Am" alt="About"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=900&color=6EE7B7&background=00000000&center=true&vCenter=true&width=700&height=55&lines=About;Who+I+Am" alt="About"/>
 </div>
 
 Computer Science undergraduate and full stack developer focused on building clean, scalable, production-minded software. I work across the entire stack, from database design and backend architecture to responsive interfaces, and I bring a product engineering mindset to everything I build.
@@ -43,36 +43,35 @@ Computer Science undergraduate and full stack developer focused on building clea
 - Freelance and project-based work
 - Technical mentorship and knowledge exchange
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&width=500&height=55&lines=Tech+Stack;What+I+Build+With" alt="Tech Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=900&color=10B981&background=00000000&center=true&vCenter=true&width=700&height=55&lines=Tech+Stack;What+I+Build+With" alt="Tech Stack"/>
 </div>
 
+<table align="center">
+<tr>
+<td align="center" width="200"><b>Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" height="48"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" height="48"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend &amp; Databases</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,mysql,postgres,mongodb&theme=dark" height="48"/></td>
+</tr>
+<tr>
+<td align="center"><b>Tools &amp; Platforms</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma&theme=dark" height="48"/></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1&pause=999999&color=FFB703&background=00000000&center=true&vCenter=true&width=300&height=30&lines=LANGUAGES" alt="Languages"/>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" height="52"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1&pause=999999&color=FFB703&background=00000000&center=true&vCenter=true&width=300&height=30&lines=FRONTEND" alt="Frontend"/>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" height="52"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1&pause=999999&color=FFB703&background=00000000&center=true&vCenter=true&width=340&height=30&lines=BACKEND+%26+DATABASES" alt="Backend"/>
-
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,mysql,postgres,mongodb&theme=dark" height="52"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1&pause=999999&color=FFB703&background=00000000&center=true&vCenter=true&width=340&height=30&lines=TOOLS+%26+PLATFORMS" alt="Tools"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma&theme=dark" height="52"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&width=560&height=55&lines=AI+%2F+ML+Expertise;Applied+Machine+Learning" alt="AI / ML Expertise"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&height=55&lines=AI+%2F+ML+Expertise;Applied+Machine+Learning" alt="AI / ML Expertise"/>
 </div>
 
 <div align="center">
@@ -87,10 +86,10 @@ Computer Science undergraduate and full stack developer focused on building clea
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=FFB703&background=00000000&center=true&vCenter=true&width=560&height=55&lines=Featured+Projects;Selected+Work" alt="Featured Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=10B981&background=00000000&center=true&vCenter=true&width=700&height=55&lines=Featured+Projects;Selected+Work" alt="Featured Projects"/>
 </div>
 
 <details open>
@@ -133,10 +132,10 @@ Built as a reusable component system rather than a static page, with a mobile-fi
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&width=500&height=55&lines=Experience;How+I+Work" alt="Experience"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=6EE7B7&background=00000000&center=true&vCenter=true&width=700&height=55&lines=Experience;How+I+Work" alt="Experience"/>
 </div>
 
 **Independent Developer** — Self-Directed Projects
@@ -151,10 +150,10 @@ Designing and shipping full stack applications end to end while completing a Com
 
 `Full Stack Development` `Python` `Java` `React` `Django` `SQL` `System Design` `Git`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=FFB703&background=00000000&center=true&vCenter=true&width=500&height=55&lines=Achievements;Milestones" alt="Achievements"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=10B981&background=00000000&center=true&vCenter=true&width=700&height=55&lines=Achievements;Milestones" alt="Achievements"/>
 </div>
 
 <div align="center">
@@ -168,39 +167,39 @@ Designing and shipping full stack applications end to end while completing a Com
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&width=560&height=55&lines=GitHub+Analytics;By+The+Numbers" alt="GitHub Analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=6EE7B7&background=00000000&center=true&vCenter=true&width=750&height=55&lines=GitHub+Analytics;By+The+Numbers" alt="GitHub Analytics"/>
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rhythmmanandhar&show_icons=true&hide_border=true&bg_color=000000&title_color=FFB703&text_color=E8E8E8&icon_color=00E5FF&ring_color=7C3AED&rank_icon=github" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhythmmanandhar&layout=compact&hide_border=true&bg_color=000000&title_color=FFB703&text_color=E8E8E8&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rhythmmanandhar&show_icons=true&hide_border=true&bg_color=0F172A&title_color=6EE7B7&text_color=CBD5E1&icon_color=10B981&ring_color=10B981&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhythmmanandhar&layout=compact&hide_border=true&bg_color=0F172A&title_color=6EE7B7&text_color=CBD5E1&langs_count=8" height="175"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rhythmmanandhar&hide_border=true&background=000000&stroke=7C3AED&ring=FFB703&fire=00E5FF&currStreakNum=FFB703&sideNums=E8E8E8&currStreakLabel=00E5FF&sideLabels=FFB703&dates=888888" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Rhythmmanandhar&hide_border=true&background=0F172A&stroke=1E293B&ring=10B981&fire=6EE7B7&currStreakNum=6EE7B7&sideNums=CBD5E1&currStreakLabel=10B981&sideLabels=6EE7B7&dates=94A3B8" height="175"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&width=620&height=55&lines=Contribution+Activity;Commit+Rhythm" alt="Contribution Activity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=10B981&background=00000000&center=true&vCenter=true&width=800&height=55&lines=Contribution+Activity;Commit+Rhythm" alt="Contribution Activity"/>
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhythmmanandhar&bg_color=000000&color=FFB703&line=00E5FF&point=FFB703&area=true&area_color=7C3AED&title_color=FFB703&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhythmmanandhar&bg_color=0F172A&color=6EE7B7&line=10B981&point=6EE7B7&area=true&area_color=10B981&title_color=6EE7B7&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=FFB703&background=00000000&center=true&vCenter=true&width=500&height=55&lines=Current+Focus;What's+Next" alt="Current Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=6EE7B7&background=00000000&center=true&vCenter=true&width=700&height=55&lines=Current+Focus;What+Comes+Next" alt="Current Focus"/>
 </div>
 
 ```yaml
@@ -226,23 +225,23 @@ open_to:
   - Freelance projects
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:4C1D95,50:7C3AED,75:FFB703,100:000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:10B981,50:6EE7B7,70:10B981,100:0F172A&height=3&section=header" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&width=500&height=55&lines=Connect;Let's+Build+Together" alt="Connect"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2400&pause=900&color=10B981&background=00000000&center=true&vCenter=true&width=750&height=55&lines=Connect;Let's+Build+Together" alt="Connect"/>
 </div>
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=FFB703" height="30"/></a>&nbsp;
-<a href="https://linkedin.com/in/rhythmmanandhar"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00E5FF" height="30"/></a>&nbsp;
-<a href="https://github.com/Rhythmmanandhar"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF" height="30"/></a>&nbsp;
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=FFB703" height="30"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=flat-square&logo=gmail&logoColor=6EE7B7" height="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/rhythmmanandhar"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=6EE7B7" height="30"/></a>&nbsp;
+<a href="https://github.com/Rhythmmanandhar"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF" height="30"/></a>&nbsp;
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=6EE7B7" height="30"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3600&pause=1000&color=FFB703&background=00000000&center=true&vCenter=true&width=640&height=40&lines=Clean+code+is+not+written+by+following+rules.;It+is+written+by+someone+who+cares." alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3600&pause=1000&color=6EE7B7&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Clean+code+is+not+written+by+following+rules.;It+is+written+by+someone+who+cares." alt="Quote"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB703,30:7C3AED,65:4C1D95,100:000000&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,35:10B981,70:1E293B,100:0F172A&height=150&section=footer" width="100%"/>
 
 </div>
