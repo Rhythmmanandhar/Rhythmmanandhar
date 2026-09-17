@@ -16,7 +16,14 @@
 <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=1A1B26" height="22"/></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=flat&logo=googlechrome&logoColor=1A1B26" height="22"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/divider.svg?v=1" width="100%" alt=""/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/terminal.svg?v=1" width="90%" alt="terminal"/>
 
 </div>
 
@@ -30,7 +37,7 @@ Right now I'm most interested in the backend side: how data is modeled, how APIs
 
 I'm looking for **internships and entry-level software engineering roles**, and I'm open to open source collaboration.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/divider.svg?v=1" width="100%" alt=""/>
 
 ## Tech
 
@@ -50,7 +57,7 @@ I'm looking for **internships and entry-level software engineering roles**, and 
 
 Comfortable with Git, the command line, and the usual development tooling.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/divider.svg?v=1" width="100%" alt=""/>
 
 ## Projects
 
@@ -74,10 +81,16 @@ The goal was maintainability — adding a new project should mean adding a data 
 
 [Repository →](https://github.com/Rhythmmanandhar/portfolio)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/divider.svg?v=1" width="100%" alt=""/>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=4000&pause=1200&color=9ECE6A&background=00000000&center=true&vCenter=true&width=600&height=30&lines=Open+to+internships+and+open+source+collaboration." alt="Footer"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/constellation.svg?v=1" width="100%" alt=""/>
 
 </div>
