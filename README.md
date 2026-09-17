@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=1&pause=999999&color=7AA2F7&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Rhythm+Manandhar" alt="Rhythm Manandhar"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1A1B26,35:7AA2F7,65:BB9AF7,100:7DCFFF&height=210&section=header&text=Rhythm%20Manandhar&fontSize=52&fontColor=FFFFFF&fontAlignY=42&rotate=8&animation=twinkling" width="100%" alt="Rhythm Manandhar"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2600&pause=900&color=7DCFFF&background=00000000&center=true&vCenter=true&width=700&height=35&lines=Computer+science+undergraduate;Full+stack+developer;Backend+%2B+applied+machine+learning;Kathmandu%2C+Nepal" alt="Roles"/>
 
