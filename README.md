@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/banner.svg?v=4" width="100%" alt="banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/banner-dark.svg?v=1"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/banner-light.svg?v=1"/>
+  <img src="https://raw.githubusercontent.com/Rhythmmanandhar/Rhythmmanandhar/main/banner-dark.svg?v=1" width="100%" alt="banner"/>
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=1&pause=999999&color=7AA2F7&background=00000000&center=true&vCenter=true&width=700&height=65&lines=Rhythm+Manandhar" alt="Rhythm Manandhar"/>
 
